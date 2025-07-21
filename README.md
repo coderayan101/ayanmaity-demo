@@ -1,4 +1,4 @@
 # ayanmaity-demo
 This is my first Git Repository.
 <br>
-Author - Ayan Maity
+Author - Ayan Maity (Software Engineer)
